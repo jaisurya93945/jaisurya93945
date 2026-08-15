@@ -1,13 +1,16 @@
-# 🛡️ Hey there, I'm Badathala Jaisurya!
-`AI Security Engineer • Founder @CipherAI • Red Teamer • Builder`
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0ea5e9&height=180&section=header&text=Badathala%20Jaisurya&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Security%20Engineer%20%7C%20Founder%20%40CipherAI&descAlignY=58&descSize=18" />
+</p>
+
+<img src="https://avatars.githubusercontent.com/u/94210631?v=4" align="right" width="140" style="border-radius:50%; margin-left:20px;" />
 
 ## 🧑‍💻 About Me
 
-I'm an AI Security Engineer working at the intersection of:
+I'm an AI Security Engineer working at the intersection of AI, cybersecurity, and LLM red teaming. I build tools that find and fix security flaws in AI systems before attackers do — prompt injection detection, agent red-teaming, and secure AI infrastructure — combining classical offensive-security thinking (CEH, CTFs) with hands-on AI engineering.
 
-🧠 Artificial Intelligence + 🛡️ Cybersecurity + 🤖 LLM Red Teaming + ⚙️ DevOps
+<br clear="right"/>
 
-I build tools that find and fix security flaws in AI systems before attackers do — prompt injection detection, agent red-teaming, and secure AI infrastructure. I combine classical offensive-security thinking (CEH, CTFs) with hands-on AI engineering to ship real defenses, not just research.
+
 
 ## 🌱 Currently
 
@@ -18,14 +21,29 @@ I build tools that find and fix security flaws in AI systems before attackers do
 
 ## ⚙️ What I Work On
 
-```text
-🛡️ Prompt Injection & Jailbreak Defense
-🤖 AI Agent Red Teaming
-🔐 Secure AI Infrastructure & RAG Pipelines
-🧠 LLM Security Research
-🕵️ Offensive Security & CTFs
-⚙️ DevOps & Cloud Security
-```
+<p align="left">
+  <img src="https://img.shields.io/badge/Prompt%20Injection%20Defense-1e3a8a?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI%20Agent%20Red%20Teaming-1e3a8a?style=flat-square" />
+  <img src="https://img.shields.io/badge/Secure%20RAG%20Pipelines-1e3a8a?style=flat-square" />
+  <img src="https://img.shields.io/badge/LLM%20Security%20Research-1e3a8a?style=flat-square" />
+  <img src="https://img.shields.io/badge/Offensive%20Security-1e3a8a?style=flat-square" />
+  <img src="https://img.shields.io/badge/DevOps%20%26%20Cloud%20Security-1e3a8a?style=flat-square" />
+</p>
+
+## 🧰 Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+</p>
 
 ## 🚀 Projects
 
@@ -62,12 +80,6 @@ Engineering:
 - 📚 Red Teaming LLM Applications — DeepLearning.AI
 - 🏅 2nd Prize, National-Level Cybersecurity Hackathon — ACM Student Chapter, VIT
 - 🚩 CTF challenges completed on TryHackMe & Hack The Box (OWASP Top 10, LFI/RCE, network exploitation)
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaisurya93945&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaisurya93945&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![GitHub Streak](https://streak-stats.demolab.com/?user=jaisurya93945&theme=dark&hide_border=false)
 
 ## 📈 My Approach
 
