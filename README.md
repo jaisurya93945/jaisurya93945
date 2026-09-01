@@ -51,7 +51,7 @@ A collection of tools built at the intersection of AI and security.
 
 | Project | Description | Tech | Status |
 |---|---|---|---|
-| 🛡️ **llm-prompt-guard** | Middleware that detects & blocks prompt injection / jailbreak attempts before they reach the model | Python • FastAPI • Transformers | 🔜 In Progress |
+| 🛡️ **SentinelCore** | A Gateway that detects & blocks prompt injection / jailbreak and potential hacking attempts before they reach the model | Python • FastAPI • Transformers | 🔜 In Progress |
 | 🤖 **agent-redteam-sandbox** | Automated red-team harness that probes LLM agents for prompt leakage, unauthorized tool calls & data exfiltration | Python • LangChain • OWASP LLM Top 10 | 🔜 In Progress |
 | 🔐 **[CipherAI](https://cipherai.in)** | Live SaaS platform combining an AI security assistant, cybersecurity education, and dev tools — with built-in anti-jailbreak guardrails | React • TypeScript • Firebase • Supabase | ✅ Live |
 
