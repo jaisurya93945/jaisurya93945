@@ -6,7 +6,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm an AI Security Engineer working at the intersection of AI, cybersecurity, and LLM red teaming. I build tools that find and fix security flaws in AI systems before attackers do — prompt injection detection, agent red-teaming, and secure AI infrastructure — combining classical offensive-security thinking (CEH, CTFs) with hands-on AI engineering.
+I'm an AI Security Engineer working at the intersection of AI, cybersecurity, and LLM red teaming. I build tools that find and fix security flaws in AI systems before attackers do prompt injection detection, agent red-teaming, and secure AI infrastructure combining classical offensive-security thinking (CEH, CTFs) with hands-on AI engineering.
 
 <br clear="right"/>
 
