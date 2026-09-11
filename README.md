@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0ea5e9&height=180&section=header&text=Badathala%20Jaisurya&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Security%20Engineer%20%7C%20Founder%20%40CipherAI&descAlignY=58&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0ea5e9&height=180&section=header&text=Badathala%20Jaisurya&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20and%20Security%20Engineer%20%7C%20Founder%20%40CipherAI&descAlignY=58&descSize=18" />
 </p>
 
 <img src="https://avatars.githubusercontent.com/u/94210631?v=4" align="right" width="140" style="border-radius:50%; margin-left:20px;" />
 
 ## 🧑‍💻 About Me
 
-I'm an AI Security Engineer working at the intersection of AI, cybersecurity, and LLM red teaming. I build tools that find and fix security flaws in AI systems before attackers do prompt injection detection, agent red-teaming, and secure AI infrastructure combining classical offensive-security thinking (CEH, CTFs) with hands-on AI engineering.
+I build AI security tooling at the intersection of AI, cybersecurity, and LLM red teaming. I build tools that find and fix security flaws in AI systems before attackers do prompt injection detection, agent red-teaming, and secure AI infrastructure combining classical offensive-security thinking (CEH, CTFs) with hands-on AI engineering.
 
 <br clear="right"/>
 
@@ -52,7 +52,6 @@ A collection of tools built at the intersection of AI and security.
 | Project | Description | Tech | Status |
 |---|---|---|---|
 | 🛡️ **SentinelCore** | A Gateway that detects & blocks prompt injection / jailbreak and potential hacking attempts before they reach the model | Python • FastAPI • Transformers | 🔜 In Progress |
-| 🤖 **agent-redteam-sandbox** | Automated red-team harness that probes LLM agents for prompt leakage, unauthorized tool calls & data exfiltration | Python • LangChain • OWASP LLM Top 10 | 🔜 In Progress |
 | 🔐 **[CipherAI](https://cipherai.in)** | Live SaaS platform combining an AI security assistant, cybersecurity education, and dev tools — with built-in anti-jailbreak guardrails | React • TypeScript • Firebase • Supabase | ✅ Live |
 
 ## 🧠 Currently Learning
@@ -109,7 +108,7 @@ Engineering:
 
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/badathala-jaisurya-7b985a224/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/badathala-jaisurya)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://jaisurya93945.github.io/portfolio)
 [![CipherAI](https://img.shields.io/badge/CipherAI-4F46E5?style=for-the-badge&logo=shield&logoColor=white)](https://cipherai.in)
 
