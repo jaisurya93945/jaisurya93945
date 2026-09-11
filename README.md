@@ -1,121 +1,44 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0ea5e9&height=180&section=header&text=Badathala%20Jaisurya&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20and%20Security%20Engineer%20%7C%20Founder%20%40CipherAI&descAlignY=58&descSize=18" />
-</p>
+# Badathala Jaisurya
 
-<img src="https://avatars.githubusercontent.com/u/94210631?v=4" align="right" width="140" style="border-radius:50%; margin-left:20px;" />
+### Independent AI Security Researcher & Engineer
 
-## 🧑‍💻 About Me
+I research and build defences for LLM applications and AI agents — and test how they fail.
 
-I build AI security tooling at the intersection of AI, cybersecurity, and LLM red teaming. I build tools that find and fix security flaws in AI systems before attackers do prompt injection detection, agent red-teaming, and secure AI infrastructure combining classical offensive-security thinking (CEH, CTFs) with hands-on AI engineering.
+[LinkedIn](https://www.linkedin.com/in/badathala-jaisurya) · [Portfolio](https://jaisurya93945.github.io/portfolio) · [TryHackMe — top 3%](https://tryhackme.com/p/nikki1602) · [Email](mailto:jaisurya524126@gmail.com)
 
-<br clear="right"/>
+---
 
+## Research & tools
 
+**[IDENSEC](https://github.com/jaisurya93945/idensec)** — *Can deterministic provenance stop indirect prompt injection in AI agents?* Values from untrusted content (emails, web pages, tool outputs) are sealed, and tool calls whose authority-bearing arguments can't be attributed to the user are denied — with no model in the decision path. Research prototype; AgentDojo benchmark next.
 
-## 🌱 Currently
+**[SentinelCore](https://github.com/jaisurya93945/sentinelcore)** — *How far can a transparent, auditable gateway go against prompt injection?* An OpenAI-compatible security gateway that scans prompts, RAG context, tool calls, MCP tool definitions and streamed output, with a policy engine (allow / sanitize / human-approval / block). Every detector change is replayed against 744 labelled attacks, and precision, recall and false-positive rate are published — weak spots included. `v0.3.0`
 
-- 🛡️ Building **CipherAI** — a live SaaS platform for AI + LLM security, registered in the UK and India
-- 💼 Working as a **DevOps Engineer @ Stackly** — Azure DevOps, CI/CD, ALM
-- 🧠 Deepening my focus on **LLM red-teaming & prompt injection defense**
-- 🎯 Open to remote **AI Security Engineer** roles, globally
+**[CipherAI security case study](https://github.com/jaisurya93945/cipherai-security-case-study)** — the threat model and controls behind a live AI SaaS I founded and secure: role-based admin access, rate limiting, abuse prevention and prompt guardrails.
 
-## ⚙️ What I Work On
+**[AI security guide](https://github.com/jaisurya93945/ai-security-guide)** — a curated reading list on LLM and agent security.
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Prompt%20Injection%20Defense-1e3a8a?style=flat-square" />
-  <img src="https://img.shields.io/badge/AI%20Agent%20Red%20Teaming-1e3a8a?style=flat-square" />
-  <img src="https://img.shields.io/badge/Secure%20RAG%20Pipelines-1e3a8a?style=flat-square" />
-  <img src="https://img.shields.io/badge/LLM%20Security%20Research-1e3a8a?style=flat-square" />
-  <img src="https://img.shields.io/badge/Offensive%20Security-1e3a8a?style=flat-square" />
-  <img src="https://img.shields.io/badge/DevOps%20%26%20Cloud%20Security-1e3a8a?style=flat-square" />
-</p>
+## Research interests
 
-## 🧰 Tech Stack
+- Indirect prompt injection and agent hijacking
+- Tool-call and MCP security
+- Evaluating guardrails under adaptive attacks
+- Prompt injection in Indic and code-mixed languages *(planned)*
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-</p>
+## Security practice
 
-## 🚀 Projects
+- **Top 3% globally on TryHackMe** — [public profile](https://tryhackme.com/p/nikki1602)
+- 2nd Prize, National-Level Cybersecurity Hackathon — ACM Student Chapter, VIT (2024)
+- CEH — EC-Council (2025) · Red Teaming LLM Applications — DeepLearning.AI (2026)
+- Cybersecurity intern — CFSS (network monitoring, log analysis, web app testing)
 
-A collection of tools built at the intersection of AI and security.
+## Stack
 
-| Project | Description | Tech | Status |
-|---|---|---|---|
-| 🛡️ **SentinelCore** | A Gateway that detects & blocks prompt injection / jailbreak and potential hacking attempts before they reach the model | Python • FastAPI • Transformers | 🔜 In Progress |
-| 🔐 **[CipherAI](https://cipherai.in)** | Live SaaS platform combining an AI security assistant, cybersecurity education, and dev tools — with built-in anti-jailbreak guardrails | React • TypeScript • Firebase • Supabase | ✅ Live |
+Python · FastAPI · TypeScript/React · Supabase/Firebase · Docker · Azure DevOps CI/CD · Linux · scikit-learn · Hugging Face datasets
 
-## 🧠 Currently Learning
+## Next up
 
-```yaml
-AI Security:
-  - Prompt Injection & Jailbreak Taxonomies (OWASP LLM Top 10)
-  - LLM Red-Teaming Frameworks (Garak, PyRIT, Promptfoo)
-  - Guardrails (NeMo Guardrails, Llama Guard, Lakera Guard)
-  - MITRE ATLAS
+- Benchmark IDENSEC on AgentDojo and publish the results
+- Add a machine-learning detection layer to SentinelCore
 
-Security Fundamentals:
-  - Cloud Security (AWS / Azure)
-  - Application Security (OWASP Top 10)
-  - Penetration Testing
-
-Engineering:
-  - MLOps & Model Supply Chain Security
-  - Secure RAG Architecture
-```
-
-## 🏆 Achievements & Certifications
-
-- 🎓 Certified Ethical Hacker (CEH) — EC-Council
-- 📚 Red Teaming LLM Applications — DeepLearning.AI
-- 🏅 2nd Prize, National-Level Cybersecurity Hackathon — ACM Student Chapter, VIT
-- 🚩 CTF challenges completed on TryHackMe & Hack The Box (OWASP Top 10, LFI/RCE, network exploitation)
-
-## 📈 My Approach
-
-```text
-        ┌──────────────────────┐
-        │     FIND THE FLAW    │
-        └──────────┬───────────┘
-                   ↓
-        ┌──────────────────────┐
-        │      EXPLOIT IT      │
-        └──────────┬───────────┘
-                   ↓
-        ┌──────────────────────┐
-        │       PATCH IT       │
-        └──────────┬───────────┘
-                   ↓
-        ┌──────────────────────┐
-        │      HARDEN IT       │
-        └──────────┬───────────┘
-                   ↓
-        ┌──────────────────────┐
-        │        SHIP IT       │
-        └──────────┬───────────┘
-                   ↓
-              🚀 REPEAT
-```
-
-## 🤝 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/badathala-jaisurya)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://jaisurya93945.github.io/portfolio)
-[![CipherAI](https://img.shields.io/badge/CipherAI-4F46E5?style=for-the-badge&logo=shield&logoColor=white)](https://cipherai.in)
-
-### 🌟 A Little Note
-
-"The future of cybersecurity will be defended by the people who understand AI best."
-
-I'm building my way toward becoming an AI Security Engineer — one exploit found, one guardrail shipped at a time.
-
-💙 Thanks for visiting my profile!
+<sub>By day: DevOps engineer at Stackly · Founder of <a href="https://cipherai.in">CipherAI</a> · Bengaluru, India</sub>
