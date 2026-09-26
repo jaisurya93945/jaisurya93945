@@ -1,6 +1,6 @@
 # Badathala Jaisurya
 
-### Independent AI Security Researcher & Engineer
+### AI Security Researcher & Engineer
 
 I research and build defences for LLM applications and AI agents — and test how they fail.
 
